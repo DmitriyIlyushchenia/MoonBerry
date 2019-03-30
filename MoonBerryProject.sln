@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonBerryProject", "MoonBerryProject\MoonBerryProject.csproj", "{DF410288-F399-4F15-9514-ED79DDFED524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF410288-F399-4F15-9514-ED79DDFED524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF410288-F399-4F15-9514-ED79DDFED524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF410288-F399-4F15-9514-ED79DDFED524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF410288-F399-4F15-9514-ED79DDFED524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8E5FA0-A9D0-46EC-AE26-1EB5436B691B}
+	EndGlobalSection
+EndGlobal
